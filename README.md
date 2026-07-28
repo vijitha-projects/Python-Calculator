@@ -30,5 +30,4 @@ Enter second number: 30
 Answer = 55.0
 ```
 ## Author
-
-Vijitha
+   VIJITHA M D
